@@ -2,7 +2,11 @@
 adding some code here
 =======
 Adding some code here
+<<<<<<< 4b68792daf5e021107cfd75573506bca99a84599
 Adding yet more code
+=======
+added more code
+>>>>>>> added feature3
 
 Fix1
 >>>>>>> 66d51609c191339425afc7ff4431669b8fc28e3e
