@@ -13,4 +13,4 @@ Feature1
 Feature2
 Feature2 changes
 >>>>>>> 66d51609c191339425afc7ff4431669b8fc28e3e
-hai
+hai"Feature2" 
